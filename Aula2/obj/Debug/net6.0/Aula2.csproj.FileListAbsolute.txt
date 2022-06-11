@@ -1,0 +1,30 @@
+P:\C# Reginaldo Filho\Aula2\bin\Debug\net6.0\Aula2.exe
+P:\C# Reginaldo Filho\Aula2\bin\Debug\net6.0\Aula2.deps.json
+P:\C# Reginaldo Filho\Aula2\bin\Debug\net6.0\Aula2.runtimeconfig.json
+P:\C# Reginaldo Filho\Aula2\bin\Debug\net6.0\Aula2.dll
+P:\C# Reginaldo Filho\Aula2\bin\Debug\net6.0\Aula2.pdb
+P:\C# Reginaldo Filho\Aula2\obj\Debug\net6.0\Aula2.csproj.AssemblyReference.cache
+P:\C# Reginaldo Filho\Aula2\obj\Debug\net6.0\Aula2.GeneratedMSBuildEditorConfig.editorconfig
+P:\C# Reginaldo Filho\Aula2\obj\Debug\net6.0\Aula2.AssemblyInfoInputs.cache
+P:\C# Reginaldo Filho\Aula2\obj\Debug\net6.0\Aula2.AssemblyInfo.cs
+P:\C# Reginaldo Filho\Aula2\obj\Debug\net6.0\Aula2.csproj.CoreCompileInputs.cache
+P:\C# Reginaldo Filho\Aula2\obj\Debug\net6.0\Aula2.dll
+P:\C# Reginaldo Filho\Aula2\obj\Debug\net6.0\refint\Aula2.dll
+P:\C# Reginaldo Filho\Aula2\obj\Debug\net6.0\Aula2.pdb
+P:\C# Reginaldo Filho\Aula2\obj\Debug\net6.0\Aula2.genruntimeconfig.cache
+P:\C# Reginaldo Filho\Aula2\obj\Debug\net6.0\ref\Aula2.dll
+P:\Aula2\bin\Debug\net6.0\Aula2.exe
+P:\Aula2\bin\Debug\net6.0\Aula2.deps.json
+P:\Aula2\bin\Debug\net6.0\Aula2.runtimeconfig.json
+P:\Aula2\bin\Debug\net6.0\Aula2.dll
+P:\Aula2\bin\Debug\net6.0\Aula2.pdb
+P:\Aula2\obj\Debug\net6.0\Aula2.csproj.AssemblyReference.cache
+P:\Aula2\obj\Debug\net6.0\Aula2.GeneratedMSBuildEditorConfig.editorconfig
+P:\Aula2\obj\Debug\net6.0\Aula2.AssemblyInfoInputs.cache
+P:\Aula2\obj\Debug\net6.0\Aula2.AssemblyInfo.cs
+P:\Aula2\obj\Debug\net6.0\Aula2.csproj.CoreCompileInputs.cache
+P:\Aula2\obj\Debug\net6.0\Aula2.dll
+P:\Aula2\obj\Debug\net6.0\refint\Aula2.dll
+P:\Aula2\obj\Debug\net6.0\Aula2.pdb
+P:\Aula2\obj\Debug\net6.0\Aula2.genruntimeconfig.cache
+P:\Aula2\obj\Debug\net6.0\ref\Aula2.dll
