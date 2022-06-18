@@ -1,0 +1,15 @@
+P:\csharp\Aula4\bin\Debug\net6.0\Aula4.exe
+P:\csharp\Aula4\bin\Debug\net6.0\Aula4.deps.json
+P:\csharp\Aula4\bin\Debug\net6.0\Aula4.runtimeconfig.json
+P:\csharp\Aula4\bin\Debug\net6.0\Aula4.dll
+P:\csharp\Aula4\bin\Debug\net6.0\Aula4.pdb
+P:\csharp\Aula4\obj\Debug\net6.0\Aula4.csproj.AssemblyReference.cache
+P:\csharp\Aula4\obj\Debug\net6.0\Aula4.GeneratedMSBuildEditorConfig.editorconfig
+P:\csharp\Aula4\obj\Debug\net6.0\Aula4.AssemblyInfoInputs.cache
+P:\csharp\Aula4\obj\Debug\net6.0\Aula4.AssemblyInfo.cs
+P:\csharp\Aula4\obj\Debug\net6.0\Aula4.csproj.CoreCompileInputs.cache
+P:\csharp\Aula4\obj\Debug\net6.0\Aula4.dll
+P:\csharp\Aula4\obj\Debug\net6.0\refint\Aula4.dll
+P:\csharp\Aula4\obj\Debug\net6.0\Aula4.pdb
+P:\csharp\Aula4\obj\Debug\net6.0\Aula4.genruntimeconfig.cache
+P:\csharp\Aula4\obj\Debug\net6.0\ref\Aula4.dll
