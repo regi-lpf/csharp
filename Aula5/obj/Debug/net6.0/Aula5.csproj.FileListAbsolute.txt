@@ -1,0 +1,15 @@
+P:\csharp\Aula5\bin\Debug\net6.0\Aula5.exe
+P:\csharp\Aula5\bin\Debug\net6.0\Aula5.deps.json
+P:\csharp\Aula5\bin\Debug\net6.0\Aula5.runtimeconfig.json
+P:\csharp\Aula5\bin\Debug\net6.0\Aula5.dll
+P:\csharp\Aula5\bin\Debug\net6.0\Aula5.pdb
+P:\csharp\Aula5\obj\Debug\net6.0\Aula5.csproj.AssemblyReference.cache
+P:\csharp\Aula5\obj\Debug\net6.0\Aula5.GeneratedMSBuildEditorConfig.editorconfig
+P:\csharp\Aula5\obj\Debug\net6.0\Aula5.AssemblyInfoInputs.cache
+P:\csharp\Aula5\obj\Debug\net6.0\Aula5.AssemblyInfo.cs
+P:\csharp\Aula5\obj\Debug\net6.0\Aula5.csproj.CoreCompileInputs.cache
+P:\csharp\Aula5\obj\Debug\net6.0\Aula5.dll
+P:\csharp\Aula5\obj\Debug\net6.0\refint\Aula5.dll
+P:\csharp\Aula5\obj\Debug\net6.0\Aula5.pdb
+P:\csharp\Aula5\obj\Debug\net6.0\Aula5.genruntimeconfig.cache
+P:\csharp\Aula5\obj\Debug\net6.0\ref\Aula5.dll

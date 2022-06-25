@@ -1,0 +1,15 @@
+P:\csharp\AulaFuncoes\bin\Debug\net6.0\AulaFuncoes.exe
+P:\csharp\AulaFuncoes\bin\Debug\net6.0\AulaFuncoes.deps.json
+P:\csharp\AulaFuncoes\bin\Debug\net6.0\AulaFuncoes.runtimeconfig.json
+P:\csharp\AulaFuncoes\bin\Debug\net6.0\AulaFuncoes.dll
+P:\csharp\AulaFuncoes\bin\Debug\net6.0\AulaFuncoes.pdb
+P:\csharp\AulaFuncoes\obj\Debug\net6.0\AulaFuncoes.csproj.AssemblyReference.cache
+P:\csharp\AulaFuncoes\obj\Debug\net6.0\AulaFuncoes.GeneratedMSBuildEditorConfig.editorconfig
+P:\csharp\AulaFuncoes\obj\Debug\net6.0\AulaFuncoes.AssemblyInfoInputs.cache
+P:\csharp\AulaFuncoes\obj\Debug\net6.0\AulaFuncoes.AssemblyInfo.cs
+P:\csharp\AulaFuncoes\obj\Debug\net6.0\AulaFuncoes.csproj.CoreCompileInputs.cache
+P:\csharp\AulaFuncoes\obj\Debug\net6.0\AulaFuncoes.dll
+P:\csharp\AulaFuncoes\obj\Debug\net6.0\refint\AulaFuncoes.dll
+P:\csharp\AulaFuncoes\obj\Debug\net6.0\AulaFuncoes.pdb
+P:\csharp\AulaFuncoes\obj\Debug\net6.0\AulaFuncoes.genruntimeconfig.cache
+P:\csharp\AulaFuncoes\obj\Debug\net6.0\ref\AulaFuncoes.dll
