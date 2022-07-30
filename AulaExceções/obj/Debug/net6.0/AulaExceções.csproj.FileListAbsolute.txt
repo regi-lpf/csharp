@@ -1,0 +1,15 @@
+C:\Users\71888\Documents\csharp\AulaExceções\obj\Debug\net6.0\AulaExceções.csproj.AssemblyReference.cache
+C:\Users\71888\Documents\csharp\AulaExceções\obj\Debug\net6.0\AulaExceções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\71888\Documents\csharp\AulaExceções\obj\Debug\net6.0\AulaExceções.AssemblyInfoInputs.cache
+C:\Users\71888\Documents\csharp\AulaExceções\obj\Debug\net6.0\AulaExceções.AssemblyInfo.cs
+C:\Users\71888\Documents\csharp\AulaExceções\obj\Debug\net6.0\AulaExceções.csproj.CoreCompileInputs.cache
+C:\Users\71888\Documents\csharp\AulaExceções\bin\Debug\net6.0\AulaExceções.exe
+C:\Users\71888\Documents\csharp\AulaExceções\bin\Debug\net6.0\AulaExceções.deps.json
+C:\Users\71888\Documents\csharp\AulaExceções\bin\Debug\net6.0\AulaExceções.runtimeconfig.json
+C:\Users\71888\Documents\csharp\AulaExceções\bin\Debug\net6.0\AulaExceções.dll
+C:\Users\71888\Documents\csharp\AulaExceções\bin\Debug\net6.0\AulaExceções.pdb
+C:\Users\71888\Documents\csharp\AulaExceções\obj\Debug\net6.0\AulaExceções.dll
+C:\Users\71888\Documents\csharp\AulaExceções\obj\Debug\net6.0\refint\AulaExceções.dll
+C:\Users\71888\Documents\csharp\AulaExceções\obj\Debug\net6.0\AulaExceções.pdb
+C:\Users\71888\Documents\csharp\AulaExceções\obj\Debug\net6.0\AulaExceções.genruntimeconfig.cache
+C:\Users\71888\Documents\csharp\AulaExceções\obj\Debug\net6.0\ref\AulaExceções.dll
