@@ -1,0 +1,15 @@
+C:\Users\71888\source\repos\AulaInterface\bin\Debug\net6.0\AulaInterface.exe
+C:\Users\71888\source\repos\AulaInterface\bin\Debug\net6.0\AulaInterface.deps.json
+C:\Users\71888\source\repos\AulaInterface\bin\Debug\net6.0\AulaInterface.runtimeconfig.json
+C:\Users\71888\source\repos\AulaInterface\bin\Debug\net6.0\AulaInterface.dll
+C:\Users\71888\source\repos\AulaInterface\bin\Debug\net6.0\AulaInterface.pdb
+C:\Users\71888\source\repos\AulaInterface\obj\Debug\net6.0\AulaInterface.csproj.AssemblyReference.cache
+C:\Users\71888\source\repos\AulaInterface\obj\Debug\net6.0\AulaInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\71888\source\repos\AulaInterface\obj\Debug\net6.0\AulaInterface.AssemblyInfoInputs.cache
+C:\Users\71888\source\repos\AulaInterface\obj\Debug\net6.0\AulaInterface.AssemblyInfo.cs
+C:\Users\71888\source\repos\AulaInterface\obj\Debug\net6.0\AulaInterface.csproj.CoreCompileInputs.cache
+C:\Users\71888\source\repos\AulaInterface\obj\Debug\net6.0\AulaInterface.dll
+C:\Users\71888\source\repos\AulaInterface\obj\Debug\net6.0\refint\AulaInterface.dll
+C:\Users\71888\source\repos\AulaInterface\obj\Debug\net6.0\AulaInterface.pdb
+C:\Users\71888\source\repos\AulaInterface\obj\Debug\net6.0\AulaInterface.genruntimeconfig.cache
+C:\Users\71888\source\repos\AulaInterface\obj\Debug\net6.0\ref\AulaInterface.dll

@@ -1,0 +1,15 @@
+C:\Users\71888\source\repos\AulaBD\bin\Debug\net6.0\AulaBD.exe
+C:\Users\71888\source\repos\AulaBD\bin\Debug\net6.0\AulaBD.deps.json
+C:\Users\71888\source\repos\AulaBD\bin\Debug\net6.0\AulaBD.runtimeconfig.json
+C:\Users\71888\source\repos\AulaBD\bin\Debug\net6.0\AulaBD.dll
+C:\Users\71888\source\repos\AulaBD\bin\Debug\net6.0\AulaBD.pdb
+C:\Users\71888\source\repos\AulaBD\obj\Debug\net6.0\AulaBD.csproj.AssemblyReference.cache
+C:\Users\71888\source\repos\AulaBD\obj\Debug\net6.0\AulaBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\71888\source\repos\AulaBD\obj\Debug\net6.0\AulaBD.AssemblyInfoInputs.cache
+C:\Users\71888\source\repos\AulaBD\obj\Debug\net6.0\AulaBD.AssemblyInfo.cs
+C:\Users\71888\source\repos\AulaBD\obj\Debug\net6.0\AulaBD.csproj.CoreCompileInputs.cache
+C:\Users\71888\source\repos\AulaBD\obj\Debug\net6.0\AulaBD.dll
+C:\Users\71888\source\repos\AulaBD\obj\Debug\net6.0\refint\AulaBD.dll
+C:\Users\71888\source\repos\AulaBD\obj\Debug\net6.0\AulaBD.pdb
+C:\Users\71888\source\repos\AulaBD\obj\Debug\net6.0\AulaBD.genruntimeconfig.cache
+C:\Users\71888\source\repos\AulaBD\obj\Debug\net6.0\ref\AulaBD.dll
