@@ -1,0 +1,12 @@
+C:\Users\71888\source\repos\MinhaTelaFofinha\bin\Debug\MinhaTelaFofinha.exe.config
+C:\Users\71888\source\repos\MinhaTelaFofinha\bin\Debug\MinhaTelaFofinha.exe
+C:\Users\71888\source\repos\MinhaTelaFofinha\bin\Debug\MinhaTelaFofinha.pdb
+C:\Users\71888\source\repos\MinhaTelaFofinha\obj\Debug\MinhaTelaFofinha.csproj.AssemblyReference.cache
+C:\Users\71888\source\repos\MinhaTelaFofinha\obj\Debug\MinhaTelaFofinha.csproj.SuggestedBindingRedirects.cache
+C:\Users\71888\source\repos\MinhaTelaFofinha\obj\Debug\MinhaTelaFofinha.Properties.Resources.resources
+C:\Users\71888\source\repos\MinhaTelaFofinha\obj\Debug\MinhaTelaFofinha.TelaAlunos.resources
+C:\Users\71888\source\repos\MinhaTelaFofinha\obj\Debug\MinhaTelaFofinha.csproj.GenerateResource.cache
+C:\Users\71888\source\repos\MinhaTelaFofinha\obj\Debug\MinhaTelaFofinha.csproj.CoreCompileInputs.cache
+C:\Users\71888\source\repos\MinhaTelaFofinha\obj\Debug\MinhaTelaFofinha.exe
+C:\Users\71888\source\repos\MinhaTelaFofinha\obj\Debug\MinhaTelaFofinha.pdb
+C:\Users\71888\source\repos\MinhaTelaFofinha\obj\Debug\MinhaTelaFofinha.TelaInicial.resources
