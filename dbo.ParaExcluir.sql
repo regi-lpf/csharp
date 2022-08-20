@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[ParaExcluir]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY(1,1)
+)

@@ -1,0 +1,14 @@
+C:\Users\71888\source\repos\BancoDeFofos\bin\Debug\Eucalipto.mdf
+C:\Users\71888\source\repos\BancoDeFofos\bin\Debug\Eucalipto_log.ldf
+C:\Users\71888\source\repos\BancoDeFofos\bin\Debug\BancoDeFofos.exe.config
+C:\Users\71888\source\repos\BancoDeFofos\bin\Debug\BancoDeFofos.exe
+C:\Users\71888\source\repos\BancoDeFofos\bin\Debug\BancoDeFofos.pdb
+C:\Users\71888\source\repos\BancoDeFofos\obj\Debug\BancoDeFofos.csproj.AssemblyReference.cache
+C:\Users\71888\source\repos\BancoDeFofos\obj\Debug\BancoDeFofos.csproj.SuggestedBindingRedirects.cache
+C:\Users\71888\source\repos\BancoDeFofos\obj\Debug\BancoDeFofos.Properties.Resources.resources
+C:\Users\71888\source\repos\BancoDeFofos\obj\Debug\BancoDeFofos.csproj.GenerateResource.cache
+C:\Users\71888\source\repos\BancoDeFofos\obj\Debug\BancoDeFofos.csproj.CoreCompileInputs.cache
+C:\Users\71888\source\repos\BancoDeFofos\obj\Debug\BancoDeFofos.exe
+C:\Users\71888\source\repos\BancoDeFofos\obj\Debug\BancoDeFofos.pdb
+C:\Users\71888\source\repos\BancoDeFofos\obj\Debug\BancoDeFofos.Form1.resources
+C:\Users\71888\source\repos\BancoDeFofos\obj\Debug\BancoDeFofos.InserePessoa.resources
